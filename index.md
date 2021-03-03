@@ -18,7 +18,9 @@ the area of mobile devices, groups of work, and communication devices.
 The construction of this document implies the creation of a Good Practices and Formal Procedures Guide for the evidence treatment process. This project has been
 divided into four investigation processes. They are:
 
-• General Procedures • Mobile
+• General Procedures 
+
+• Mobile
 
 • Groups of work
 
