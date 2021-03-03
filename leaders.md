@@ -1,3 +1,4 @@
 ### Leaders
-* [Oscar Orellana Artigas](https://www.linkedin.com/in/oscarorellanaa/)
-* [Oscar Bravo Lara](https://www.linkedin.com/in/oscar-bravo-lara/)
+* [Bravo Lara, Oscar](https://www.linkedin.com/in/oscar-bravo-lara/)
+* [Orellana Artigas, Oscar](https://www.linkedin.com/in/oscarorellanaa/)
+* [Pacheco Pacheco, Daniel]
