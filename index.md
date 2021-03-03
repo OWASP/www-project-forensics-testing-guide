@@ -9,7 +9,7 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-![Logo OWASP FTG](https://raw.githubusercontent.com/OWASP/www-project-forensics-testing-guide/master/assets/images/logo.png)
+![Logo OWASP FTG](https://raw.githubusercontent.com/OWASP/www-project-forensics-testing-guide/master/assets/images/logov2.png)
 
 This Project allows several forensic experts to have an orientation to perform formal processes that require the presentation of judicial and/or administrative
 procedures. In the first stage, criteria are agreed using current frames of work, such as ISO/IEC, NIST, UNE, among others. Furthermore, processes are generated in
