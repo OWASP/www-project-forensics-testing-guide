@@ -17,7 +17,7 @@ pitch: A very brief, one-line description of your project
 <ul>
   <li>General Procedures</li>
   <li>Mobile</li>
-  <li>Groups of work</li>
+  <li>Workstations</li>
   <li>Communication devices</li>
 </ul>
 <p align="justify">Likewise, it is proposed the production of two kinds of forensic reports (executive and technical), as well as a chain of custody that contain the good practices. The Project leaders are Oscar Orellana, Oscar Bravo and Daniel Pacheco, who have performed and worked on several studies and contributions to the field of Cybersecurity.</p>
