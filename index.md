@@ -22,4 +22,4 @@ pitch: A very brief, one-line description of your project
   <li>Forensic analysis in work equipments</li>
   <li>Forensic analysis in communication equipments</li>
 </ol>
-<p align="justify">The project leaders are Oscar Orellana, Oscar Bravo and Daniel Pacheco, who have worked on several studies and contributions in the field of Cybersecurity.</p>
+<p align="justify">The project leaders are Oscar Orellana and Oscar Bravo, who have worked on several studies and contributions in the field of Cybersecurity.</p>
